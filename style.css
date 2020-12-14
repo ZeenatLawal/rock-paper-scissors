@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(231, 218, 163);
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+}
+h3{
+    font-size: 25px;
+}
+#player-container{
+    margin-bottom: 40px;
+}
+#playAgain, input{
+    font-size: 25px;
+    padding: 10px;
+    margin:  0px 10px;
+    background-color: rgb(143, 173, 229);
+    border-radius: 10px;
+    border: 4px double #cccccc;
+}
+#choice, #score, #result{
+    font-size: 25px;
+}
+#playAgain{
+    margin-top: 30px;
+    visibility: hidden;
+    background-color: rgb(226, 63, 95);
+}
